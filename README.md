@@ -9,9 +9,9 @@ chmod +x sshtu.sh
 
 و سپس با دستور زیر اجراش کنید:
 
-\`\`\`
+```
 ./sshtu.sh
-\`\`\`
+```
 
 سه تا ورودی:
 Enter Port for Server Iran  --> پورت سرور ایرانتون
